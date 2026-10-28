@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NossoLar.CrossCutting/1.0.0": {
+        "runtime": {
+          "NossoLar.CrossCutting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NossoLar.CrossCutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

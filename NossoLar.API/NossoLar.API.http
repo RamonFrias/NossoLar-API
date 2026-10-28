@@ -1,0 +1,6 @@
+@NossoLar.API_HostAddress = http://localhost:5245
+
+GET {{NossoLar.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

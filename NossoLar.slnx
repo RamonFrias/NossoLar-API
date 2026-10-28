@@ -1,1 +1,10 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="NossoLar.API/NossoLar.API.csproj" />
+    <Project Path="NossoLar.Application/NossoLar.Application.csproj" />
+    <Project Path="NossoLar.CrossCutting/NossoLar.CrossCutting.csproj" />
+    <Project Path="NossoLar.Domain/NossoLar.Domain.csproj" />
+    <Project Path="NossoLar.Infraestructure/NossoLar.Infraestructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
