@@ -5,7 +5,7 @@ using System.Text;
 
 namespace NossoLar.Domain.Residentials.ValueObjects
 {
-    public class Address
+    public sealed record Address
     {
         public string Street { get; }
         public string Number { get; }

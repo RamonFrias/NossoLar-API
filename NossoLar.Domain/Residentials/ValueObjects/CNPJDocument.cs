@@ -5,7 +5,7 @@ using System.Text;
 
 namespace NossoLar.Domain.Residentials.ValueObjects
 {
-    public class CNPJDocument
+    public sealed record CNPJDocument
     {
         public string? CNPJ { get; private set; }
         public CNPJDocument(string cnpj)
