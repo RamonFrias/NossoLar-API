@@ -6,5 +6,7 @@
     <Project Path="NossoLar.Domain/NossoLar.Domain.csproj" />
     <Project Path="NossoLar.Infraestructure/NossoLar.Infraestructure.csproj" />
   </Folder>
-  <Folder Name="/tests/" />
+  <Folder Name="/tests/">
+    <Project Path="NossoLar.Domain.Test/NossoLar.Domain.Test.csproj" Id="5a49a5f2-cce2-42f5-ad5f-9924a98c583c" />
+  </Folder>
 </Solution>

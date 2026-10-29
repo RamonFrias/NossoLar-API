@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\.NET Course\\My personal projects\\NossoLar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD981554-C9A2-45E4-845C-ECCBEB23D826}|NossoLar.Domain\\NossoLar.Domain.csproj|d:\\.net course\\my personal projects\\nossolar\\nossolar.domain\\residentials\\entities\\residential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD981554-C9A2-45E4-845C-ECCBEB23D826}|NossoLar.Domain\\NossoLar.Domain.csproj|solutionrelative:nossolar.domain\\residentials\\entities\\residential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A49A5F2-CCE2-42F5-AD5F-9924A98C583C}|NossoLar.Domain.Test\\NossoLar.Domain.Test.csproj|d:\\.net course\\my personal projects\\nossolar\\nossolar.domain.test\\residentialtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A49A5F2-CCE2-42F5-AD5F-9924A98C583C}|NossoLar.Domain.Test\\NossoLar.Domain.Test.csproj|solutionrelative:nossolar.domain.test\\residentialtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD981554-C9A2-45E4-845C-ECCBEB23D826}|NossoLar.Domain\\NossoLar.Domain.csproj|d:\\.net course\\my personal projects\\nossolar\\nossolar.domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD981554-C9A2-45E4-845C-ECCBEB23D826}|NossoLar.Domain\\NossoLar.Domain.csproj|solutionrelative:nossolar.domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00E5D4EA-1B62-595A-8564-F89DD4AF89BD}|NossoLar.Domain\\NossoLar.Domain.csproj|d:\\.net course\\my personal projects\\nossolar\\nossolar.domain\\residentials\\entities\\residential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E5D4EA-1B62-595A-8564-F89DD4AF89BD}|NossoLar.Domain\\NossoLar.Domain.csproj|solutionrelative:nossolar.domain\\residentials\\entities\\residential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E5D4EA-1B62-595A-8564-F89DD4AF89BD}|NossoLar.Domain\\NossoLar.Domain.csproj|d:\\.net course\\my personal projects\\nossolar\\nossolar.domain\\residentials\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E5D4EA-1B62-595A-8564-F89DD4AF89BD}|NossoLar.Domain\\NossoLar.Domain.csproj|solutionrelative:nossolar.domain\\residentials\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 245,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain\\Common\\Entity.cs",
-              "RelativeDocumentMoniker": "NossoLar.Domain\\Common\\Entity.cs",
-              "ToolTip": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain\\Common\\Entity.cs",
-              "RelativeToolTip": "NossoLar.Domain\\Common\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ResidentialTest.cs",
+              "DocumentMoniker": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain.Test\\ResidentialTest.cs",
+              "RelativeDocumentMoniker": "NossoLar.Domain.Test\\ResidentialTest.cs",
+              "ToolTip": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain.Test\\ResidentialTest.cs",
+              "RelativeToolTip": "NossoLar.Domain.Test\\ResidentialTest.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAmwJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T13:29:21.737Z",
+              "WhenOpened": "2026-10-29T17:21:37.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Residential.cs",
               "DocumentMoniker": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain\\Residentials\\Entities\\Residential.cs",
               "RelativeDocumentMoniker": "NossoLar.Domain\\Residentials\\Entities\\Residential.cs",
               "ToolTip": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain\\Residentials\\Entities\\Residential.cs",
               "RelativeToolTip": "NossoLar.Domain\\Residentials\\Entities\\Residential.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T13:28:44.522Z",
+              "WhenOpened": "2026-10-29T17:15:01.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain\\Residentials\\ValueObjects\\Address.cs",
+              "RelativeDocumentMoniker": "NossoLar.Domain\\Residentials\\ValueObjects\\Address.cs",
+              "ToolTip": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain\\Residentials\\ValueObjects\\Address.cs",
+              "RelativeToolTip": "NossoLar.Domain\\Residentials\\ValueObjects\\Address.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T14:08:39.585Z",
               "EditorCaption": ""
             }
           ]
