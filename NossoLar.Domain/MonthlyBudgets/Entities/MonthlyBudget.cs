@@ -1,11 +1,11 @@
 ﻿using NossoLar.Domain.Common;
 using NossoLar.Domain.Exceptions;
 using NossoLar.Domain.Finances.Enums;
-using NossoLar.Domain.MonthlyBudget.Entities;
+using NossoLar.Domain.MonthlyBudgets.Entities;
 
 namespace NossoLar.Domain.MonthlyBudgets.Entities
 {
-    public sealed class MonthlyBudget : Entity
+    public class MonthlyBudget : Entity
     {
         private readonly List<Expense> _expenses = new();
         public decimal TotalIncome { get; private set; }

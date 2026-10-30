@@ -5,7 +5,7 @@ using NossoLar.Domain.Residentials.ValueObjects;
 
 namespace NossoLar.Domain.Test
 {
-    public class ResidentialTest
+    public class ResidentialTests
     {
         private static Address ValidAddress(string street = "Rua das Flores") =>
         new(street, "123", "Centro", "Campinas", "SP", "13010000", "Apto 12");

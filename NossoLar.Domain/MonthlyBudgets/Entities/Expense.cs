@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace NossoLar.Domain.MonthlyBudget.Entities
+namespace NossoLar.Domain.MonthlyBudgets.Entities
 {
     public class Expense : Entity
     {
