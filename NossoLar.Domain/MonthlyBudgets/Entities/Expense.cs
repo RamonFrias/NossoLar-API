@@ -7,7 +7,7 @@ using System.Text;
 
 namespace NossoLar.Domain.MonthlyBudgets.Entities
 {
-    public class Expense : Entity
+    public sealed class Expense : Entity
     {
         public ExpenseGroup Group { get; private set; }
         public string Description { get; private set; } = null!;

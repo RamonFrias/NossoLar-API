@@ -5,7 +5,7 @@ using NossoLar.Domain.MonthlyBudgets.Entities;
 
 namespace NossoLar.Domain.MonthlyBudgets.Entities
 {
-    public class MonthlyBudget : Entity
+    public sealed class MonthlyBudget : Entity
     {
         private readonly List<Expense> _expenses = new();
         public decimal TotalIncome { get; private set; }

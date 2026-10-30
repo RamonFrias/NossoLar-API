@@ -3,22 +3,22 @@
   "WorkspaceRootPath": "D:\\.NET Course\\My personal projects\\NossoLar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A49A5F2-CCE2-42F5-AD5F-9924A98C583C}|NossoLar.Domain.Test\\NossoLar.Domain.Test.csproj|d:\\.net course\\my personal projects\\nossolar\\nossolar.domain.test\\monthlybudgettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A49A5F2-CCE2-42F5-AD5F-9924A98C583C}|NossoLar.Domain.Test\\NossoLar.Domain.Test.csproj|solutionrelative:nossolar.domain.test\\monthlybudgettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C8BA215-D116-D407-69B7-9C71594D8BA2}|NossoLar.Infraestructure\\NossoLar.Infraestructure.csproj|d:\\.net course\\my personal projects\\nossolar\\nossolar.infraestructure\\entityconfiguration\\residentialconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8BA215-D116-D407-69B7-9C71594D8BA2}|NossoLar.Infraestructure\\NossoLar.Infraestructure.csproj|solutionrelative:nossolar.infraestructure\\entityconfiguration\\residentialconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E5D4EA-1B62-595A-8564-F89DD4AF89BD}|NossoLar.Domain\\NossoLar.Domain.csproj|d:\\.net course\\my personal projects\\nossolar\\nossolar.domain\\monthlybudgets\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00E5D4EA-1B62-595A-8564-F89DD4AF89BD}|NossoLar.Domain\\NossoLar.Domain.csproj|solutionrelative:nossolar.domain\\monthlybudgets\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00E5D4EA-1B62-595A-8564-F89DD4AF89BD}|NossoLar.Domain\\NossoLar.Domain.csproj|d:\\.net course\\my personal projects\\nossolar\\nossolar.domain\\residentials\\entities\\residential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E5D4EA-1B62-595A-8564-F89DD4AF89BD}|NossoLar.Domain\\NossoLar.Domain.csproj|solutionrelative:nossolar.domain\\residentials\\entities\\residential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 245,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Expense.cs",
-              "DocumentMoniker": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain\\MonthlyBudgets\\Entities\\Expense.cs",
-              "RelativeDocumentMoniker": "NossoLar.Domain\\MonthlyBudgets\\Entities\\Expense.cs",
-              "ToolTip": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain\\MonthlyBudgets\\Entities\\Expense.cs",
-              "RelativeToolTip": "NossoLar.Domain\\MonthlyBudgets\\Entities\\Expense.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ResidentialConfiguration.cs",
+              "DocumentMoniker": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Infraestructure\\EntityConfiguration\\ResidentialConfiguration.cs",
+              "RelativeDocumentMoniker": "NossoLar.Infraestructure\\EntityConfiguration\\ResidentialConfiguration.cs",
+              "ToolTip": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Infraestructure\\EntityConfiguration\\ResidentialConfiguration.cs",
+              "RelativeToolTip": "NossoLar.Infraestructure\\EntityConfiguration\\ResidentialConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowDIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T01:56:42.715Z",
+              "WhenOpened": "2026-10-30T02:26:21.756Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MonthlyBudgetTests.cs",
-              "DocumentMoniker": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain.Test\\MonthlyBudgetTests.cs",
-              "RelativeDocumentMoniker": "NossoLar.Domain.Test\\MonthlyBudgetTests.cs",
-              "ToolTip": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain.Test\\MonthlyBudgetTests.cs",
-              "RelativeToolTip": "NossoLar.Domain.Test\\MonthlyBudgetTests.cs",
-              "ViewState": "AgIAABEBAAAAAAAAAAAzwAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Residential.cs",
+              "DocumentMoniker": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain\\Residentials\\Entities\\Residential.cs",
+              "RelativeDocumentMoniker": "NossoLar.Domain\\Residentials\\Entities\\Residential.cs",
+              "ToolTip": "D:\\.NET Course\\My personal projects\\NossoLar\\NossoLar.Domain\\Residentials\\Entities\\Residential.cs",
+              "RelativeToolTip": "NossoLar.Domain\\Residentials\\Entities\\Residential.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T01:46:57.359Z",
+              "WhenOpened": "2026-10-30T02:28:57.679Z",
               "EditorCaption": ""
             }
           ]
