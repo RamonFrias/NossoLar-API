@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NossoLar.Infraestructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7baa64e139fac02c647612d8e47035c5105acc0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25c028af179f233b935081c52fc7c3754e68fb43")]
 [assembly: System.Reflection.AssemblyProductAttribute("NossoLar.Infraestructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NossoLar.Infraestructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
